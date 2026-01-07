@@ -1,4 +1,3 @@
 numpy
 scikit-learn
 streamlit
-//this are required at runtime
