@@ -1,6 +1,6 @@
 # 🕵️‍♀️Fake Profile Detection System
 
-Live Demo : fake-profile-detector---ml-web-app ∙ main ∙ app.py
+Live Demo : https://fake-profile-detector.streamlit.app/
 
 An AI-based system that detects fake online profiles using Machine Learning.
 
