@@ -1,4 +1,4 @@
-# Fake Profile Detection System
+# 🕵️‍♀️Fake Profile Detection System
 
 An AI-based system that detects fake online profiles using Machine Learning.
 
